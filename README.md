@@ -9,3 +9,6 @@ For example, if you need a list of contacts, you can use Python to create a new 
 <hr>
 
 Before you start sending emails with Python, you need to prepare your Google account so that you can connect to Gmail with Python.
+
+- In order to be able to connect to Gmail with Python, you need to create a new app password in your Google account.
+To do this, enter the Google account settings at the address <a href="https://myaccount.google.com/">myaccount.google.com</a>.
